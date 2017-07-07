@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RSBot" type="JarApplication" factoryName="JAR Application">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="JAR_PATH" value="$USER_HOME$/Downloads/jagexappletviewer.jar" />
+    <option name="VM_PARAMETERS" value="-Djava.search.path=$PROJECT_DIR$/out/production/RSBotDeadlyRedSpiders/ -Dsun.java2d.nodraw=true -Dcom.jagex.config=http://www.runescape.com/l=en/jav_config.ws -Xmx512m -Xss2m -XX:CompileThreshold=1500 -Xincgc -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -javaagent:$USER_HOME$/Downloads/RSBot.jar" />
+    <option name="PROGRAM_PARAMETERS" value="runescape" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <envs />
+    <method />
+  </configuration>
+</component>
